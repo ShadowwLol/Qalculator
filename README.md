@@ -1,0 +1,2 @@
+# Qalculator
+A crossplatform calculator.
